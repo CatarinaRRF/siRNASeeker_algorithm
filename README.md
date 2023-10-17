@@ -36,7 +36,7 @@ Para automatizar e aprimorar o processo de seleção de siRNA, desenvolvemos um 
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/CatarinaRRF/IC_design_de_siRNA/main/media/algoritimo_siRNA.png">
+  <img src="https://raw.githubusercontent.com/CatarinaRRF/IC_design_de_siRNA/main/media/fluxograma.png">
 </h1>
 
 📂<B><i>Etapa 1:</i></B> Entrada de Dados
