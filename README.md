@@ -76,11 +76,6 @@ A pontuação então sera trasformada em pencentual, onde apenas as sequencias c
 📂<B><i>Etapa 9:</i></B> Fim
 <p align="justify">O algoritmo conclui a análise das sequências de DNA, gerando uma tabela de resultados que pode ser utilizada para inferir a função ou alvo dos siRNAs identificados, contribuindo para a pesquisa em biologia molecular e terapia genética.</p>
 
-### Tecnologias usados 
-* Python
-* Google Colab
-* Python libraries: Biopython, Pandas
-
 ## Inicialização
 <p align="justify">O programa desenvolvido para a implementação do algoritmo de design de siRNA foi escrito em Python e utiliza diversas bibliotecas para processar e analisar as sequências de DNA. O Google Colab foi escolhido como plataforma para execução, permitindo fácil compartilhamento e colaboração. As principais bibliotecas utilizadas incluem Biopython para manipulação de sequências biológicas e Pandas para análise de dados. O código completo está disponível no repositório GitHub, permitindo que outros pesquisadores possam reproduzir e aprimorar o algoritmo conforme necessário.</p>
 
@@ -91,9 +86,6 @@ A pontuação então sera trasformada em pencentual, onde apenas as sequencias c
 </li>
 <li>Navegue até o diretório do projeto:
 <pre><code>cd IC_design_de_siRNA</code></pre>
-</li>
-<li>Instale as dependências necessárias:
-<pre><code>pip install -r requirements.txt</code></pre>
 </li>
 <li>Execute o notebook no Google Colab ou localmente:
 <pre><code>jupyter notebook siRNA_Design.ipynb</code></pre>
