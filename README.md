@@ -1,27 +1,24 @@
-> <B>⚠️ Esse README ainda esta sob construção</B>
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/CatarinaRRF/IC_design_de_siRNA/main/media/Creative.png" alt="logo">
 </h1>
 
-<h3 align="center">siRNA Seeker - Design de siRNA</h3>
+<h3 align="center">siRNA Seeker - Algoritmo de Design de siRNA</h3>
 
 <p align="center">
     <a href="">
     <img src="https://img.shields.io/github/last-commit/CatarinaRRF/IC_design_de_siRNA?color=informational&style=flat-square"
          alt="GitHub last commit">
     <a href="https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22">
-    <img src= http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=green&style=flat-square >
+    <img src= http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=green&style=flat-square >
 
 </p>
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#metodologia">Metodologia</a> •
-  <a href="#resultados">Resultados</a> •
+  <a href="#inicialização">Inicialização</a> •
   <a href="#conclusão">Conclusão</a> •
-  <a href="#arquivos">Arquivos</a> •
-  <a href="#creditos">Creditos</a>
+  <a href="#creditos">Créditos</a>
   
 </p>
 
@@ -84,31 +81,34 @@ A pontuação então sera trasformada em pencentual, onde apenas as sequencias c
 * Google Colab
 * Python libraries: Biopython, Pandas
 
-## Programa
-
-
-
 ## Inicialização
-<p align="justify">Em linhas gerais, constatou-se que <b>Lorem ipsum dolor sit amet</b>. Verifica-se, portanto, <b>consectetur adipiscing elit</b>. Ademais, verifica-se <b>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</b>.
+<p align="justify">O programa desenvolvido para a implementação do algoritmo de design de siRNA foi escrito em Python e utiliza diversas bibliotecas para processar e analisar as sequências de DNA. O Google Colab foi escolhido como plataforma para execução, permitindo fácil compartilhamento e colaboração. As principais bibliotecas utilizadas incluem Biopython para manipulação de sequências biológicas e Pandas para análise de dados. O código completo está disponível no repositório GitHub, permitindo que outros pesquisadores possam reproduzir e aprimorar o algoritmo conforme necessário.</p>
 
-Cabe destacar ainda que Lorem ipsum dolor sit amet.
-</p>
+<p>Para inicializar o programa, siga os passos abaixo:</p>
+<ol>
+<li>Clone o repositório do GitHub:
+<pre><code>git clone https://github.com/CatarinaRRF/IC_design_de_siRNA.git</code></pre>
+</li>
+<li>Navegue até o diretório do projeto:
+<pre><code>cd IC_design_de_siRNA</code></pre>
+</li>
+<li>Instale as dependências necessárias:
+<pre><code>pip install -r requirements.txt</code></pre>
+</li>
+<li>Execute o notebook no Google Colab ou localmente:
+<pre><code>jupyter notebook siRNA_Design.ipynb</code></pre>
+</li>
+</ol>
+<p>Esses passos permitirão que você configure o ambiente necessário para rodar o algoritmo e inicie o processo de design de siRNA.</p>
 
-## Arquivos
-<img align="right" height="150" src="https://img.freepik.com/vetores-gratis/caixa-de-armazenamento-de-arquivamento-de-arquivos-de-gabinete-de-documentos_33099-829.jpg?w=740&t=st=1662167069~exp=1662167669~hmac=fb6f9c20366de7cfa78155d9e4e0219a230a9affa0fccec9c10875147c2d2c85">
+## Conclusão
+<p align="justify">Em conclusão, o algoritmo desenvolvido para o design de siRNA mostrou-se uma ferramenta eficaz e automatizada para a identificação de sequências de siRNA de alta qualidade. A aplicação dos critérios estabelecidos permitiu a seleção de candidatos viáveis, que foram posteriormente validados por meio de busca BLAST. Esses resultados destacam a importância do desenvolvimento de tecnologias automatizadas no campo da biotecnologia, facilitando a pesquisa e o desenvolvimento de novas terapias gênicas.
+Futuramente, planejamos desenvolver um aplicativo web baseado nesse algoritmo, permitindo que usuários de diversas áreas da ciência possam acessar e utilizar essa ferramenta de forma prática e intuitiva. Este aplicativo terá uma interface amigável e integrará todas as etapas do processo, desde a entrada de dados até a geração de resultados, contribuindo ainda mais para o avanço da pesquisa em interferência por RNA.</p>
 
-* Dados <i>"Crus"</i> <a href=''>Link</a>
-* Dados processados após limpeza de dados <a href=''>Link</a>
-* Notebooks da Análise Exploratória de Dados <a href=''>Link</a>
-* Notebooks da Modelagem de Dados <a href=''>Link</a>
-* Dashboard <a href=''>Link</a>
+> 🚀 Acompanhe o desenvolvimento do aplicativo <a href="siRNA_seeker_0.0.1">aqui</a>
 
 ## Créditos
-* UFU patos de minas
-* 
-
+* Universidade Federal de Uberlândia (UFU) - Campus Patos de Minas
+* Equipe de desenvolvimento: Catarina RRF, Valdeir de Paula e Matheus Souza
 <img src="https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/974dd832c3980dd107a36a4b6906b616bb7b71f2/media/hr_line_redme.png" alt="logo">
-
 <p align="center">
- <a href='https://www.linkedin.com/public-profile'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' height=20px></a> <a href='https://www.kaggle.com/ccfreitas'><img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' height=20px></a>
-</p>
