@@ -97,7 +97,7 @@ A pontuação então sera trasformada em pencentual, onde apenas as sequencias c
 <p align="justify">Em conclusão, o algoritmo desenvolvido para o design de siRNA mostrou-se uma ferramenta eficaz e automatizada para a identificação de sequências de siRNA de alta qualidade. A aplicação dos critérios estabelecidos permitiu a seleção de candidatos viáveis, que foram posteriormente validados por meio de busca BLAST. Esses resultados destacam a importância do desenvolvimento de tecnologias automatizadas no campo da biotecnologia, facilitando a pesquisa e o desenvolvimento de novas terapias gênicas.
 Futuramente, planejamos desenvolver um aplicativo web baseado nesse algoritmo, permitindo que usuários de diversas áreas da ciência possam acessar e utilizar essa ferramenta de forma prática e intuitiva. Este aplicativo terá uma interface amigável e integrará todas as etapas do processo, desde a entrada de dados até a geração de resultados, contribuindo ainda mais para o avanço da pesquisa em interferência por RNA.</p>
 
-> 🔎 Acompanhe o desenvolvimento do aplicativo <a href="siRNA_seeker_0.0.1">aqui</a>
+> 🌌 Acompanhe o desenvolvimento do aplicativo <a href="https://github.com/CatarinaRRF/siRNA_seeker_0.0.1">aqui</a>
 
 ## Créditos
 * Universidade Federal de Uberlândia (UFU) - Campus Patos de Minas
