@@ -18,7 +18,7 @@
   <a href="#metodologia">Metodologia</a> •
   <a href="#inicialização">Inicialização</a> •
   <a href="#conclusão">Conclusão</a> •
-  <a href="#creditos">Créditos</a>
+  <a href="#créditos">Créditos</a>
   
 </p>
 
