@@ -91,7 +91,8 @@ Futuramente, planejamos desenvolver um aplicativo web baseado nesse algoritmo, p
 > 🌌 Acompanhe o desenvolvimento do aplicativo <a href="https://github.com/CatarinaRRF/siRNA_seeker_0.0.1">aqui</a>
 
 ## Créditos
-* Universidade Federal de Uberlândia (UFU) - Campus Patos de Minas
+* Laboratório de Bioinformática e Análises Moleculares. Instituto de Genética e Bioquímica, 
+Universidade Federal de Uberlândia, Campus Patos de Minas, Patos de Minas-MG 
 * Equipe de desenvolvimento: Catarina RRF, Valdeir de Paula e Matheus Souza
 <img src="https://github.com/CatarinaRRF/Challenge-Alura-Cash-19-08-22/blob/974dd832c3980dd107a36a4b6906b616bb7b71f2/media/hr_line_redme.png" alt="logo">
 <p align="center">
