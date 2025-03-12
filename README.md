@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/CatarinaRRF/siRNA_Seeker/blob/main/static/img/siRNAeeker_preto.png" alt="logo">
+  <img src="https://github.com/CatarinaRRF/siRNA_Seeker/blob/main/static/img/siRNAseeker_preto.png" alt="logo">
 </h1>
 
 <h3 align="center">siRNA Seeker - Algoritmo de Design de siRNA</h3>
